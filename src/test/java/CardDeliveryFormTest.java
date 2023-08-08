@@ -17,7 +17,7 @@ class CardDeliveryFormTest {
 
     @Test
     void shouldTest() {
-        open("http://localhost:7777");
+        open("http://localhost:9999");
         $("[data-test-id='city'] input").setValue("Ижевск");
         String currentDate = generateDate(4, "dd.MM.yyyy");
         $("[data-test-id='date'] input").sendKeys(Keys.chord(Keys.LEFT_SHIFT, Keys.HOME), Keys.DELETE);
