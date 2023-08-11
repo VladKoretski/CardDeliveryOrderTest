@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/pgeru7qc5qm8itk1/branch/main?svg=true)](https://ci.appveyor.com/project/VladKoretski/carddeliveryordertest/branch/main)  
+[![Build status](https://ci.appveyor.com/api/projects/status/5tj2poawuir18l77/branch/main?svg=true)](https://ci.appveyor.com/project/VladKoretski/carddeliveryordertest/branch/main)  
 
 # Домашнее задание к занятию «2.2. Selenide»
 
